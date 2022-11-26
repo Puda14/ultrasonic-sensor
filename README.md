@@ -1,6 +1,6 @@
 # ultrasonic-sensor
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/Puda14/ultrasonic-sensor/blob/main/schematics/schematic.jpg"/>
 </p>
 
 # auto-LED-basic
