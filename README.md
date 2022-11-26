@@ -28,7 +28,7 @@ A system that determines the light in a room to turn on or off lights.
 # Schematics
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Puda14/ultrasonic-sensor/blob/main/schematics/Schematics.png" />
 </p>
 
 # The code
